@@ -80,7 +80,7 @@ git clone https://github.com/tuusuario/alimentatech.git
 2. Abre el archivo:
 
 ```bash
-alimentatech.html
+index.html
 ```
 
 3. Ejecuta el proyecto en cualquier navegador moderno.
